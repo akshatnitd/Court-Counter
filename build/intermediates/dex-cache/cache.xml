@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85c8ed1bcded7081c5d3ca862dc1bd2bda6878f3">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de586642fca694b20d188ca410ee4c3b5a9ab6be/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_b87602029fb4481a210650ea6dafb130e77d17b3/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2a64db58c01e2938e2677c64a43495a06d0f99b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="acd69eef1d970c9dd44dce45b0215ba3ac15c5fa">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97b2603b8b10abf558396c25cac919e016fa26fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_44e1ff57a6200cdd372a77e9199cbd87f23456ca/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_a011a9c1cc6c21f6e5ad81e276a4d26e343ef230/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_fbaeda0c2a047175c6b69cc97b58977aa5ddb94d/classes.dex" />
+    </item>
+    <item
+        jar="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/akshat/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_21114e4510c9fcba83f6beba5ddb1bd02e2dd347/classes.dex" />
+    </item>
+
+</items>
